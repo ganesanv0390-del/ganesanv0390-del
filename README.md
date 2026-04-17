@@ -1,97 +1,62 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ganesan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Ganesan</strong>
-</h1>
+<h1 align="center">Hi 👋, I'm Ganesan</h1>
+<h3 align="center">🚀 AI Automation Developer | 🎬 Video Editor | 💻 Freelancer</h3>
 
-<h3>AI Automation Developer | n8n • Web Development • Freelancing</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm focused on building powerful automation systems and modern web solutions.  
-    I love creating workflows that save time, reduce manual work, and help businesses scale faster.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:ganesancoolboy18@gmail.com">
-      <img src="https://img.shields.io/badge/📧_ganesancoolboy18@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Freelance-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_Automation_Expert-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Connect with Me</h3>
-  
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Automation+Expert;Freelancer;Video+Editor;Building+Smart+Systems" />
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+---
 
-<br clear="all" />
+## 🔥 About Me
+
+- ⚡ I build automation workflows using **n8n**
+- 💻 I create websites & web apps  
+- 🎬 I do professional video editing & motion graphics  
+- 🌍 Based in India  
+- 📩 Email: **ganesancoolboy18@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>⚙️ Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🔄 Automation</h3>
-
-<p>n8n • API Integration • Workflow Automation</p>
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧠 Learning</h3>
-
-<p>AI Tools • Backend Systems • Scalable Automation</p>
-
-</td>
-</tr>
-</table>
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
+
+---
+
+### 🔄 Automation
+- n8n  
+- API Integration  
+- Workflow Automation  
+
+---
+
+### 🎬 Video Editing & Design
+<p>
+<img src="https://skillicons.dev/icons?i=ps,pr,ae" />
+</p>
+
+- 🎥 Adobe Premiere Pro  
+- 🎞️ After Effects  
+- 🎬 DaVinci Resolve  
+- 📱 CapCut  
+- 🖌️ Photoshop  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -104,12 +69,10 @@
 
 ---
 
-## 📩 Contact Me
+## ⚡ Fun Fact
 
-📧 Email: **ganesancoolboy18@gmail.com**
+> I turn boring manual work into powerful automation systems 😎
 
 ---
 
-## ⚡ Fun Fact
-
-> I turn boring manual work into fully automated systems 😎
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
