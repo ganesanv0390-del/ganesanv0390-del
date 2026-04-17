@@ -1,10 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ganesan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img align="center" alt="Banner" src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif"/>
 
-<h1 align="center">Hi 👋, I'm Ganesan</h1>
-<h3 align="center">🚀 AI Automation Developer | 🎬 Video Editor | 💻 Freelancer</h3>
+<h1 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  Hi, I'm <strong>Ganesan</strong>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Automation+Expert;Freelancer;Video+Editor;Building+Smart+Systems" />
+<h3>🚀 AI Automation Developer | 🎬 Video Editor | 💻 Freelancer</h3>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Automation+Expert;Freelancer;Video+Editor;Building+Smart+Systems" />
 </p>
 
 ---
@@ -72,7 +76,3 @@
 ## ⚡ Fun Fact
 
 > I turn boring manual work into powerful automation systems 😎
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
